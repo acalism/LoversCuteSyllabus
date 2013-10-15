@@ -1,0 +1,4 @@
+/* Localized versions of Info.plist keys */
+
+"CFBundleDisplayName" = "实用课程表";
+"CFBundleName"        = "实用课程表";

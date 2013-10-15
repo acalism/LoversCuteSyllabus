@@ -1,0 +1,35 @@
+/* 
+  Localizable.strings
+  LoversCuteSyllabus
+
+  Created by Dawn Song on 13-9-16.
+  Copyright (c) 2013年 iscas. All rights reserved.
+*/
+/*
+@"Week" = @"Week";
+@"Ordinal" = @"Ordinal";
+*/
+
+"1"    = "I";
+"2"    = "II";
+"3"    = "III";
+"4"    = "IV";
+"5"    = "V";
+"6"    = "VI";
+"7"    = "VII";
+"8"    = "VIII";
+"9"    = "IX";
+"10"   = "X";
+"11"   = "XI";
+"12"   = "XII";
+
+"Monday"    = "Monday";
+"Tuesday"   = "Tuesday";
+"Wednesday" = "Wednesday";
+"Thursday"  = "Thursday";
+"Friday"    = "Friday";
+"Saturday"  = "Saturday";
+"Sunday"    = "Sunday";
+
+"classesInfo"    = "There're %u classes totally.";
+"ClassNo"        = "Class %d";
